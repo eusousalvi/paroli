@@ -32,11 +32,12 @@ section {
 
 section > iframe {
   height: 100%;
-  width: 50vw;
+  max-width: 800px;
 }
 
 footer {
   display: flex;
   justify-content: center;
   padding-top: 2rem;
+  text-align: center;
 }
